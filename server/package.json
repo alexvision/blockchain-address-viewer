@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A proxy server to hit the Blockchain.info address endpoint",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Manusu",
+  "license": "ISC",
+  "dependencies": {
+    "cors-anywhere": "^0.4.1"
+  }
+}
